@@ -66,5 +66,5 @@
 ###
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11146104599&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11146104599&count={4})
 ###
