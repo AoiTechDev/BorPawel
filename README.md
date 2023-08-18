@@ -1,14 +1,20 @@
-<h1 align="left">Hey👋! My name is Paweł and welcome on my Github profile :)</h1>
+<div align="center">
+  <img height="340" src="https://i.imgur.com/sxliQjh.png"  />
+</div>
 
 ###
 
-<p align="left">I'm currently working on my portfolio website and learning technologies like Typescript, Nextjs and Redux. I'm highly motivated to become an expert as a front-end developer. Wish me luck :)</p>
+<h1 align="center">Hey👋! My name is Paweł and welcome on my Github profile :)</h1>
+
+###
+
+<p align="left">Hello, I am a fresh graduate from the West Pomeranian University of Technology in Szczecin, ready to enter the world of Frontend Development. I am determined to become an expert in creating interactive and aesthetically pleasing user interfaces. I'm currently working on my personal website portfolio and expanding my skills with more technologies like Typescript, NextJS and Redux. Visit my Linkedin profile to know more about me :)</p>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pbornikowski/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -23,11 +29,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/z2KbVZxKCHxxIDhnsQ/giphy.gif"  />
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<img align="right" height="150" src="https://media.giphy.com/media/z2KbVZxKCHxxIDhnsQ/giphy.gif"  />
 
 ###
 
@@ -45,8 +51,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">I also worked with:</h3>
 
 ###
@@ -62,9 +66,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
 </div>
-
-###
-
-
 
 ###
