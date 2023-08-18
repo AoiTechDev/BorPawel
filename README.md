@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgur.com/If0EbIy.jpg"  />
-</div>
-
-###
-
 <p align="left">My current stack:</p>
 
 ###
