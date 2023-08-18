@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="340" src="https://i.imgur.com/sxliQjh.png"  />
+  <img height="300" src="https://i.imgur.com/sxliQjh.png"  />
 </div>
 
 ###
 
-<h1 align="center">Hey👋! My name is Paweł and welcome on my Github profile :)</h1>
+<h1 align="center">Hey👋! My name is Paweł and I am Front-end Developer 👨🏻‍💻</h1>
 
 ###
 
-<p align="left">Hello, I am a fresh graduate from the West Pomeranian University of Technology in Szczecin, ready to enter the world of Frontend Development. I am determined to become an expert in creating interactive and aesthetically pleasing user interfaces. I'm currently working on my personal website portfolio and expanding my skills with more technologies like Typescript, NextJS and Redux. Visit my Linkedin profile to know more about me :)</p>
+<p align="left">I am a fresh graduate from the West Pomeranian University of Technology in Szczecin. I am determined to become an expert in creating interactive and aesthetically pleasing user interfaces. I'm currently working on my personal website portfolio and expanding my skills with more technologies like Typescript, NextJS and Redux. Visit my Linkedin profile to know more about me :)</p>
 
 ###
 
