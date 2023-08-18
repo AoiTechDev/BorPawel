@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/z2KbVZxKCHxxIDhnsQ/giphy.gif"  />
 
 ###
 
@@ -67,7 +67,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/11146104599">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11146104599&count={4})
   </a>
 </div>
 
