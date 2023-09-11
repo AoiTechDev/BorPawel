@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey👋! My name is Paweł and I am Front-end Developer 👨🏻‍💻</h1>
+<h1 align="center">Hey👋! My name is Paweł | Front-end Developer 👨🏻‍💻</h1>
 
 ###
 
@@ -19,6 +19,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">I have challenged myself to work and make commits to my projects every single day. Wish me luck!✨</div>
+<div align="center">Current milestone: 100 days | in progress </div>
 
 ###
 
