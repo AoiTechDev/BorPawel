@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a fresh graduate from the West Pomeranian University of Technology in Szczecin. I am determined to become an expert in creating interactive and aesthetically pleasing user interfaces. I'm currently working on my personal website portfolio and expanding my skills with more technologies like Typescript, NextJS and Redux. Visit my Linkedin profile to know more about me :)</p>
+<p align="left">I am a front-end development enthusiast. I specialize in creating intuitive, responsive web interfaces using modern frameworks and technologies such as JavaScript, React/Next.js and Tailwind CSS/Sass. Front-end development is an ideal field for me because it combines programming with UI design to create fully functional works of art. With my art background in drawing and painting, it's a combination of two fields I'm very familiar with, so I feel very comfortable with it. Visit my Linkedin profile to know more about me :)</p>
 
 ###
 
@@ -52,6 +52,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -65,11 +69,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+
 </div>
 
 ###
