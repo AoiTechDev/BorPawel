@@ -23,7 +23,7 @@
 ###
 
 <div align="center">I have challenged myself to work and make commits to my projects every single day. Wish me luck!✨</div>
-<div align="center">Current milestone: 100 days | 11/18/2023 </div>
+<div align="center">100 days | 11/18/2023 </div>
 <div align="center">Current milestone: 200 days | in progress </div>
 
 ###
